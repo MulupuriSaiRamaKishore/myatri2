@@ -1,0 +1,18 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "4f5e489f-2268-499f-94ef-5d2c8141bf7d": {
+      "name": "myatri1",
+      "id": "4f5e489f-2268-499f-94ef-5d2c8141bf7d",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "0dfbfade-21c4-4d45-84f6-8c0c3bc3f75e": "4f5e489f-2268-499f-94ef-5d2c8141bf7d"
+  }
+}
